@@ -1,6 +1,6 @@
 ---
 date: 2016-02-04 17:17:47
-title: opsschool_unix
+title: 【笔记】opsschool of unix
 tags: ops
 ---
 
