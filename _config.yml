@@ -69,3 +69,5 @@ theme: apollo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
+  repo: git@github.com:liul85/liul85.github.com.git
+  branch: master
